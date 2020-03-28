@@ -35,7 +35,9 @@
     "entitySuffix": "",
     "dtoSuffix": "DTO",
     "otherModules": [],
-    "blueprints": []
+    "blueprints": [],
+    "herokuAppName": "todofiapgateway",
+    "herokuDeployType": "git"
   },
   "git-provider": "GitHub",
   "git-company": "Davholl",
